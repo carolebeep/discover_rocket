@@ -58,7 +58,9 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 </p>
 
 <<<<<<< HEAD
+
+# <!--END_SECTION:footer-->
+
 <!--END_SECTION:footer-->
-=======
-<!--END_SECTION:footer-->
->>>>>>> de876bb6be0c96c32369ef7d802f008dd84f379b
+
+> > > > > > > de876bb6be0c96c32369ef7d802f008dd84f379b
